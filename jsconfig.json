@@ -4,6 +4,7 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    "jsx": "preserve",	//在这里添加"jsx": "preserve",
     "paths": {
       "@/*": [
         "src/*"
